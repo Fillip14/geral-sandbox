@@ -1,2 +1,1 @@
-# geral-sandbox
-Noções gerais sobre software
+# Noções gerais sobre software
